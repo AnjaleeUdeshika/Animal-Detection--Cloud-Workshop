@@ -1,0 +1,96 @@
+
+body, html{
+  margin: 0;
+  background: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+.container-all{
+  width: fit-content;
+  margin: 20px auto;
+  height: auto;
+}
+.container{
+  width: calc(40% - 6px);
+  overflow:hidden;
+  height: fit-content;
+  margin:3px;
+  padding: 0;
+  display:block;
+  position:relative;
+  float:left;
+}
+img{
+  width: 100%;
+  transition-duration: .3s;
+  max-width: 100%;
+  display:block;
+  overflow:hidden;
+  cursor:pointer;
+}
+.container:hover img{
+  transform: scale(1.2);
+  transition-duration: .3s;
+  filter: grayscale(50%);
+  opacity: .7;
+}
+.container:hover span{
+  color:white;
+  display: block;
+  transition-duration: .3s;
+}
+.column{
+    margin-left: 300px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+@media only screen and (max-width: 900px) {
+    .container {
+        width: calc(50% - 6px);
+    }
+}
+@media only screen and (max-width: 400px) {
+    .container {
+        width: 100%;
+    }
+}
+
+.btn {
+    align-items: center;
+    size: lg;
+    display: inline-block;
+    background: hsl(312, 12%, 8%);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0.25rem;;
+    border-color: transparent;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    letter-spacing: 0.1rem;
+    margin-top:  0.5rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-bottom:  0.5rem;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    
+  }
+
+  .btn:hover {
+      margin-left: auto;
+      margin-right: auto;
+      background: hsl(64, 71%, 58%);
+      color: hsl(0, 0%, 100%);
+  }
+
+  h1{
+      font-family: 'Courier New', Courier, monospace;
+      margin-bottom: 1rem;
+      text-transform: capitalize;
+      text-align: center;
+      color:rgb(0, 0, 0);
+  }

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/static/style.css" />
+    <title>Vision API</title>
+  </head>
+  <body>
+    <div class="container">
+
+      <!-- List of Detected Lables -->
+      <form action="/animal-label-detection" method="post">
+        <input class="btn" type="submit" value="List of Detected Lables " />
+      </form>
+
+      <!-- List of Detected Objects -->
+      <form action="/animal-object-detection" method="post">
+        <input class="btn" type="submit" value="List of Detected Objects" />
+      </form>
+
+      <!-- List of Cats and Dogs -->
+      <form action="/animal-list" method="post">
+        <input class="btn" type="submit" value="List of Cats and Dogs" />
+      </form>
+
+      <!-- List of Cats and Dogs Images -->
+      <form action="/animal-img-list" method="post">
+        <input class="btn" type="submit" value="List of Cats and Dogs Images" />
+      </form>
+    </div>
+  </body>
+</html>

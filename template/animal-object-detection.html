@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/static/style.css" />
+    <title>list-of-objects</title>
+  </head>
+  <body>
+    <div class="container">
+      <table>
+        <tbody>
+          <tr>
+            {%for value in labelName%}
+            <td>{{value}}</td>
+            {%endfor%}
+          </tr>
+          <tr>
+            {%for value in labelScore%}
+            <td>{{value}}</td>
+            {%endfor%}
+          </tr>
+        </tbody>
+      </table>
+
+      <form action="/" method="post">
+        <input class="btn" type="submit" value="<< Back" />
+      </form>
+    </div>
+  </body>
+</html>

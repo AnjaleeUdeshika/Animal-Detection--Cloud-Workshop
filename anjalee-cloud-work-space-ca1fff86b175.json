@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anjalee-cloud-work-space",
+  "private_key_id": "ca1fff86b1754efbfe04a81961dd191215926921",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPhe/96yvVSz7L\np+R9BNhCaAi/s5/VHssOdWnR5gNYp3LMQqJ1n0UI6RvslQUhKZOUwzDxyY7/pB41\nxN580Ui0awTpQxkvf8TviB35DBCMvJ+R05ZQ79rGJwaR+AXPHEJ1BP5J9ulQs5Ca\nHftck61UkJctXMqYqlBhF4p7STFrsRmlDvZjTeEOM2Us6uCAhlL5SrM04soJXTXL\ndv+uyI/9Qy1TPwIhDC6b8Iw7jv1fTo4N7N6f+h7fjPurkjbUtOTWKjEAiRE+eYOz\nQAPAJxYoUZKDtgp0+WJ1pbHHpXgAsLBqTsLGZmXyQCvVyzLNwkkglGNCKytPSagw\n7EJSsp89AgMBAAECggEACPwmE2rat33uBphK0sTibiGd+1rWGT6fkQ0xWzanv29k\nj4Z1DT2rmgKpxFkBY1mu+5pl5JoS+GuNKUvQTDwtdy5JBKZ0kTNpfet5TL6ies1x\n5TjxgaiY4spuxOQlsD1rfTCNp/sqR+W2ZY3Vw8DbGNW3ze1+EhURrNp9ku/s1Vo+\nKaqvvHHIroAKP2fgsAQTDC0lN8Xn/sc8bhaapedm+Sy39qmERvTSbj8dCGUugq4h\nxvhy7PK9Cgtyn/pGMD7fb8v79C0i1ErEVuGQOU6/vIeh6ZWWRT2Sn7xG5YZN/b+5\nAcl3spSkUL96yrFhyAvTGXRSYyWjAIuSU7/Te/0PUQKBgQDpHRbiy4+OXtKIjJ45\nuCOsrHL6r9UofMVGUCZ+rt7vcQG9eXLh3xxagoMUh62E1DBZ7IPKU4ZQFc/J24Vs\n6cC83rSHIwBdssuCo7lkgt12Nl++upF788TVtqmX/YFaCdXLBdGrKYdKeMJ4+Qo7\nz0mXA2RCUu1Hul9uddUydUltOQKBgQDj5a0oSVcZgUF86EisYtGdZA6VkRYh9gpF\nV5WL00tNOPcJr+RPfYSzv8owVnA1NNrEkFxpqALaZqIc+oH4SgpVd6t1EnCoOr5S\neJici2AtBkGKxyhzAMp2hieqS5bJG3cW4KJPOq5l03WHuLHyCdRkOo/ST3WhtFmd\nK3ISuTqGJQKBgEcbh3qg62ZbSE88zZr/r2ohpGURs6zI+ogrNMLZ5skVKJm6bS+3\nFfgJ7aAajvSAoUsc2UqjVcoiDSMe4kFJwHAcYucB5z+tpWRxOsENJi7EAUq1sGEm\nB7nFIVBqlMV5UIzAdqeGYG14DqJGHTgHUARPlYqhrx19HVUdfm4I1uAJAoGAHPvl\n9Ny2/iBpQsiMDZiXziueizkjlngjQERuWZUq24xmJs4+/Dkbenzm6xTjOnEZbaxq\nhGmAy2QINCVMCFbqT4pjvQT2XP7zm6uIxUgYmEFWbp77rvynw0E2pDru127ty3QQ\nUIFHEt488WD1CLJlV8X26ql+bW1xhEK1RFpYbh0CgYBWeGoS5sl54a9EkTQ087wb\nYnVELd43cgAohKapdaX04pdxX5pNOy5cQKJL8JQuYH+/wwexwL+2Fj+yJItTu+HG\nqtbaJR1RbuxJRwIB+zP1Z4hRPNyzCKNhXuWz7OnFUTQ/77rlb4icSd769ifJcWo4\n+NApwrTzyEbWzwhNkjYh/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@anjalee-cloud-work-space.iam.gserviceaccount.com",
+  "client_id": "109126774677901375056",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40anjalee-cloud-work-space.iam.gserviceaccount.com"
+}

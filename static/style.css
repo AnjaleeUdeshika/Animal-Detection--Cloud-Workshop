@@ -1,0 +1,76 @@
+
+body{
+  background-image: url(https://media.istockphoto.com/vectors/kawaii-camomile-mascot-vector-id1220636142?k=20&m=1220636142&s=612x612&w=0&h=pE2RMsJOtlXe8ekQnq7q-vITYMzVdLl9Ki_qoRVA1x0=);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  
+}
+
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 1170px;
+    text-align: center;
+    margin-top: 2rem;
+  
+  }
+
+.btn {
+    size: lg;
+    display: inline-block;
+    background: hsl(312, 12%, 8%);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0.25rem;;
+    border-color: transparent;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    letter-spacing: 0.1rem;
+    margin-top:  0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom:  0.5rem;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    
+  }
+
+  .btn:hover {
+    background: hsl(64, 71%, 58%);
+    color: hsl(0, 0%, 100%);
+  }
+
+  h1{
+      font-family: 'Courier New', Courier, monospace;
+      margin-bottom: 1rem;
+      text-transform: capitalize;
+      color: hsl(210, 22%, 49%);
+  }
+
+  table, th, td {
+    background-color: black;
+    border: 0.5px solid hsl(85, 77%, 43%);;
+    border-collapse: collapse;
+    padding: 10px;
+    color: hsl(58, 81%, 65%);;
+    font-weight: 600;
+  
+  }
+
+  table{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .card{
+     margin-left: auto;
+     margin-right: auto;
+  }
